@@ -92,6 +92,7 @@ header.pageCart
 header.pageRegister
 {
 	background-image: url('../img/mastheads/8.jpg');
+	background-position: 50% 60%;
 }
 
 .beforeHeader
@@ -320,7 +321,7 @@ nav.topMenu ul li a.searchBtn:hover
 .frontPageItemRow.biggerText a.topLink
 {
 	font-size: 3.85vw;
-	padding: 2% 10%;
+	padding: 3.725% 10%;
 	
 }
 
@@ -372,16 +373,39 @@ nav.topMenu ul li a.searchBtn:hover
 	text-align: center;
 	border: 3px solid  #333;
 	padding: 20% 10%;
-	box-sizing: border-box;
-	top: 20%;
-	margin-left:25%;	
+	box-sizing: border-box;	
 	position:absolute;
 }
+
+.frontPageItem .frontPageItemOver a span,
+.frontPageItemWide .frontPageItemOver .layer1 a span
+{
+
+}
+
+.frontPageItem .frontPageItemOver a span,
+.frontPageItemWide .frontPageItemOver .layer1 a span
+{}
+
+.frontPageItem .frontPageItemOver a span,
+.frontPageItemWide .frontPageItemOver .layer1 a span
+{}
+
+.frontPageItem .frontPageItemOver a span,
+.frontPageItemWide .frontPageItemOver .layer1 a span
+{}
+
+.frontPageItem .frontPageItemOver a span,
+.frontPageItemWide .frontPageItemOver .layer1 a span
+{}
+
+.frontPageItem .frontPageItemOver a span,
+.frontPageItemWide .frontPageItemOver .layer1 a span
+{}
 
 .frontPageItemWide .frontPageItemOver a span
 {
 	width: 25%;
-	margin-left:37.5%;
 	padding: 10% 5%;
 }
 
@@ -452,7 +476,7 @@ div.frontPageItemWide .yellowCircle {
     height: 25vw;
     position: absolute;
     right: 6%;
-    top: 18%;
+    top: 6%;
     width: 25vw;
     text-align: center;
     padding-top: 5%;
@@ -553,33 +577,16 @@ div.home a
 
 }	
 
-div.home a.bold 
+
+div.home a:hover
 {
 	font-weight: 700;
-}	
-
-
-.rightFilter
-{
-	float: right;
-	margin-right: 3%;
 }
 
-.rightFilter span
-{
-	font-size: 0.8vw;
-}
-.rightFilter select
-{
-	width: 8vw;
-	max-width: 150px;
-}
 
 div.page 
 {
-	width:80%;
-	margin-right:10%;
-	margin-left: 10%;
+	width:100%;
 	font-size: 1vw;
 	float: left;
 }
@@ -633,22 +640,13 @@ div.page1 a:hover
 	
 }
 
-div.filtersContainer 
-{
-	width:15%;
-	float:left;
-	margin-left:2%;
-	margin-right:2%;
-	margin-top:2%;
-}
-
 div.shoes
 {
-	margin-right: 0%;
-	width:80.7%;
-	float:left;
+	margin-left: 9.7%;
+	width: 80.6%;
+	float: left;
 	padding-bottom: 2%;
-	margin-top:2%;
+	margin-top: 8%;
 }
 
 div.products3 
@@ -664,6 +662,7 @@ div.model
 	float: left;
 	margin-right: 2%;
 	margin-bottom: 4.5%;
+	padding-left: 3%;
 }
 
 div.img
@@ -767,42 +766,11 @@ div.img .overlay a
 	margin-bottom: 5%;
 }
 
-.filterButton i.fa-caret-right,
-.filterButton i.fa-caret-down
-{
-	font-size: 2.5rem;
-	position:absolute;
-	right: 5%;
-	top: 0vw; 
-}
-.filterButton
-{
-	background-color: #919191;
-	width: 100%;
-	float: left;
-	font-size: 0.9vw;
-	text-align:center;
-	color:#fff;
-	padding: 5% 2% 5% 1%;
-	box-sizing:border-box;
-	cursor: pointer;
-	position: relative;
-}
 
 .filterButton:hover
 {
 	background-color: #d8d8e8;
 	color: #000;
-}
-.filterButton .priceRange
-{
-	
-	position: relative;
-	display: block; 
-	float: left;
-	text-align: center;
-	width: 90%;
-	margin-top: 1%;
 }
 
 .blackButton

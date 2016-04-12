@@ -68,7 +68,7 @@
 			<label for="E-mail">E-mail:</label><input  type="email" name="email" placeholder="E-mail address">
 			<label for="password">Password:</label><input  type="password" name="password">
 			<div class='button'><input id="logBtn" type="button" value="Login"></div>
-			<a href="#" class="alreadyReg">Need registration?</a>
+			<a href="register.php" class="alreadyReg">Need registration?</a>
 		</form>	
 	</div>
 	

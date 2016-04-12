@@ -70,31 +70,8 @@
 		
 			<label for="E-mail">E-mail:</label><input  type="email" name="email">
 			<label for="Retype e-mail">Retype e-mail:</label><input  type="email" name="email2">
-			<label for="title">Title:</label><select name="title" form="logForm">
-											  <option value="Mr">Mr.</option>
-											  <option value="Ms">Ms.</option>
-											  <option value="Mrs">Mrs.</option>
-											</select>
+			
 			<label for="fname">First name:</label><input  type="text" name="uname">
-			<label for="lname">Last name:</label><input  type="text" name="uname2">
-			<label for="date">Date of birth:</label><input  type="date" name="date" placeholder="dd/mm/yyyy">
-		
-		
-		<h3>Address</h3>
-			<label for="title">Country:</label><select name="country" form="logForm">
-												  <option value="United_Kingdom">United Kingdom</option>
-												  <option value="Germany">Germany</option>
-												  <option value="France">France</option>
-											 </select>
-			<label for="Address">Address:</label><input  type="text" name="address" placeholder="address line 1">
-			<input  type="text" name="address2"  placeholder="address line 2">
-			<label for="town">Town/City:</label><input  type="text" name="town">
-			<label for="country">Country/State:</label><input  type="text" name="country">
-
-		<h3>Contact numbers</h3>
-
-			<label for="telephone">Telephone:</label><input  type="text" name="telephone">
-			<label for="mobile">Mobile:</label><input  type="text" name="mobile">
 
 		<h3>Password</h3>
 
@@ -106,7 +83,7 @@
 				<input id="regBtn" type="button" value="Register">
 			
 			</div>
-			<a href="#" class="alreadyReg">Already registered</a>
+			<a href="login.php" class="alreadyReg">Already registered</a>
 		</form>
 	</div>
 	

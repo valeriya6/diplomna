@@ -49,18 +49,18 @@
 			<div class='frontPageItem'>
 				<div class='frontPageItemOver'>
 					<img class="layer1" src="img/collections/10.jpg">
-					<a href="shoes.html"><span>Spring Collection</span></a>
+					<a href="shoes.php"><span>Spring Collection</span></a>
 				</div>
 			</div>
 			
 			<div class='frontPageItem'>
-				<div class='frontPageItemRow'><a href='shoes.html' class='topLink'>shop</a></div>
-				<div class='frontPageItemRow'><a href='shoes.html' class='topLink'>coctail dresses</a></div>
-				<div class='frontPageItemRow biggerText'><a href='shoes.html' class='topLink'>spring collection</a></div>
+				<div class='frontPageItemRow'><a href='shoes.php' class='topLink'>shop</a></div>
+				<div class='frontPageItemRow'><a href='shoes.php' class='topLink'>coctail dresses</a></div>
+				<div class='frontPageItemRow biggerText'><a href='shoes.php' class='topLink'>spring collection</a></div>
 				
 				<div class='frontPageItemOver'>
 					<img src="img/collections/14.jpg">
-					<a href="shoes.html"><span>Spring Collection</span></a>
+					<a href="shoes.php"><span>Spring Collection</span></a>
 				</div>
 			</div>
 			
@@ -74,24 +74,24 @@
 						</div>
 					</div>
 					
-					<a href="shoes.html"><span>Spring Collection</span></a>
+					<a href="shoes.php"><span>Spring Collection</span></a>
 				</div>
 			</div>
 			
 			<div class='frontPageItem'>
 				<div class='frontPageItemOver'>
 					<img src="img/collections/13.jpg">
-					<a href="shoes.html"><span>Spring Collection</span></a>
+					<a href="shoes.php"><span>Spring Collection</span></a>
 				</div>
-				<div class='frontPageItemRow'><a href='shoes.html' class='topLink'>shop</a></div>
-				<div class='frontPageItemRow'><a href='shoes.html' class='topLink'>coctail dresses</a></div>
-				<div class='frontPageItemRow biggerText'><a href='shoes.html' class='topLink'>spring collection</a></div>
+				<div class='frontPageItemRow'><a href='shoes.php' class='topLink'>shop</a></div>
+				<div class='frontPageItemRow'><a href='shoes.php' class='topLink'>coctail dresses</a></div>
+				<div class='frontPageItemRow biggerText'><a href='shoes.php' class='topLink'>spring collection</a></div>
 			</div>
 			
 			<div class='frontPageItem'>
 				<div class='frontPageItemOver'>
 					<img class="layer4" src="img/collections/9.jpg">
-					<a href="shoes.html"><span>Spring Collection</span></a>
+					<a href="shoes.php"><span>Spring Collection</span></a>
 				</div>
 			</div>
 			
@@ -106,7 +106,7 @@
 						</div>
 					</div>
 					
-					<a href="shoes.html"><span>Spring Collection</span></a>
+					<a href="shoes.php"><span>Spring Collection</span></a>
 				</div>
 			</div>
 		
