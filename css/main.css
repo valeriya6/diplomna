@@ -234,7 +234,7 @@ nav.topMenu ul li a {
 	display: block;
 	text-decoration: none;
 	text-align:center;
-		text-transform:uppercase;
+	text-transform:uppercase;
 	font-size: 1.1vw;
 	color: #FFFFFF;
 	height: 100%;
@@ -375,33 +375,16 @@ nav.topMenu ul li a.searchBtn:hover
 	padding: 20% 10%;
 	box-sizing: border-box;	
 	position:absolute;
+	top: 50%;
+	left: 50%;
+	transform: 
+	translate(-50%,-50%);
+	-moz-transform:translate(-50%,-50%);
+    -webkit-transform:translate(-50%,-50%);
+    -o-transform:translate(-50%,-50%);
+    -ms-transform:translate(-50%,-50%);
 }
 
-.frontPageItem .frontPageItemOver a span,
-.frontPageItemWide .frontPageItemOver .layer1 a span
-{
-
-}
-
-.frontPageItem .frontPageItemOver a span,
-.frontPageItemWide .frontPageItemOver .layer1 a span
-{}
-
-.frontPageItem .frontPageItemOver a span,
-.frontPageItemWide .frontPageItemOver .layer1 a span
-{}
-
-.frontPageItem .frontPageItemOver a span,
-.frontPageItemWide .frontPageItemOver .layer1 a span
-{}
-
-.frontPageItem .frontPageItemOver a span,
-.frontPageItemWide .frontPageItemOver .layer1 a span
-{}
-
-.frontPageItem .frontPageItemOver a span,
-.frontPageItemWide .frontPageItemOver .layer1 a span
-{}
 
 .frontPageItemWide .frontPageItemOver a span
 {
@@ -449,7 +432,6 @@ nav.topMenu ul li a.searchBtn:hover
    -ms-transition: all 0.1s ease-in;
    transition: all 0.1s ease-in;
    
-   
 }
 
 div.img:hover img 
@@ -476,11 +458,17 @@ div.frontPageItemWide .yellowCircle {
     height: 25vw;
     position: absolute;
     right: 6%;
-    top: 6%;
+    top: 50%;
     width: 25vw;
     text-align: center;
     padding-top: 5%;
     box-sizing: border-box;
+    transform: 
+    translate(0,-50%);
+    -moz-transform:translate(0,-50%);
+    -webkit-transform:translate(0,-50%);
+    -o-transform:translate(0,-50%);
+    -ms-transform:translate(0,-50%);
 }
 div.frontPageItemWide .yellowCircle i
 {
@@ -1452,7 +1440,15 @@ div.tabs .tab:first-of-type
 	    top: 0.4vw;
 	}
 	
-		
+	.frontPageItem .frontPageItemOver a span
+	{
+		padding-left:0;
+		padding-right:0;
+	}	
+	.frontPageItemWide .frontPageItemOver a span
+	{
+		padding: 7% 0;
+	}
 	div.page1 {
 	    font-size: 2vw;
 	}
@@ -1495,6 +1491,11 @@ div.tabs .tab:first-of-type
 		margin-left: 2%;
 		margin-right: 2%;
 	}
+	
+	div.model
+	{
+	width:48%;
+	}
 }
 
 
@@ -1515,6 +1516,7 @@ div.tabs .tab:first-of-type
     font-size: 1.1vw;
     padding: 1vw 1.8vw;
 	}
+
 }
 
 @media all and (max-width: 640px) {
@@ -1544,16 +1546,32 @@ div.tabs .tab:first-of-type
    .frontPageItem{
 	width: 94%;
    }
+  
+   .frontPageItem .frontPageItemOver a span,
+   .frontPageItemWide .frontPageItemOver a span 
+   	{
    
-   .frontPageItemWide .frontPageItemOver a span
-	{
+   
 	 	padding: 17% 0;
 	    top: 5%;
 	    width: 50%;
 	    margin-left: 25%;
+	    display: none;
 	}
    	
+   	.frontPageItem .frontPageItemOver a,
+	.frontPageItemWide .frontPageItemOver a
+	{
+		background-color: rgba(216,216,232,0);
+	}
    	
+	.frontPageItem .frontPageItemOver:hover img,
+	.frontPageItemWide .frontPageItemOver:hover img
+	{
+	
+	  	opacity:0.4;
+	}
+	  	
    	.logo
    	{
    		width: 80%;
@@ -1754,10 +1772,15 @@ div.tabs .tab:first-of-type
 	    float: left;
 	    margin-right: 2%;
 	    margin-top: 2%;
-	    margin-left: 2%;
+	    margin-left: 4%;
 	    width: 96%;
 	}
-	
+		
+	div.products3 
+	{
+    width: 94%;
+    height: auto;	
+	}
 	
 	div.filtersContainer {
 		width: 96%;
@@ -1781,6 +1804,7 @@ div.tabs .tab:first-of-type
 
 	.overlay a span {
 		font-size: 10vw;
+		display:none;
 	}
 
 	/*page2*/
@@ -1910,6 +1934,7 @@ div.tabs .tab:first-of-type
 	.loginCont
 	{
 		width: 100%;
+		margin:auto;
 	}
 	.userInfo input,
 	.userInfo select

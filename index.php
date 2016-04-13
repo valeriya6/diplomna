@@ -98,7 +98,7 @@
 			<div class='frontPageItemWide'>
 			
 				<div class='frontPageItemOver'>
-					<img src="img/collections/12.jpg">
+					<img src="img/collections/15.jpg">
 					<div class="yellowCircle">
 						<h3>SPRING COLLECTION</h3>
 						<div class='description'>
