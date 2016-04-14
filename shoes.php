@@ -67,8 +67,7 @@
 		
 		
 		<div class="shoes">
-			
-			<div class="products3">
+
 			
 				<div class="model">
 					<div class="img">
@@ -79,8 +78,10 @@
 							</a>
 						</div>
 					</div>
-					<a class="itemDescription">Little Mistress Leonie Strappy Heeled Sandals</a>
-				    <a class="itemPrice">&#8364 63.38</a>
+					<div class="descriptionProducts">
+						<a href="#" class="itemDescription">Little Mistress Leonie Strappy Heeled Sandals</a>
+					    <a href="#" class="itemPrice">&#8364 63.38</a>
+					</div>
 					
 				</div>
 				
@@ -93,9 +94,11 @@
 							</a>
 						</div>
 					</div>
-					<a class="itemDescription">Ted Baker Meshi Suede Heeled Shoes</a>
-					<a class="itemPrice">&#8364 91.55</a>
-				
+					<div class="descriptionProducts">
+						<a href="#" class="itemDescription">Ted Baker Meshi Suede Heeled Shoes</a>
+						<a href="#" class="itemPrice">&#8364 91.55</a>
+					</div>
+					
 				</div>
 				
 				<div class="model">
@@ -107,13 +110,12 @@
 							</a>
 						</div>
 					</div>
-					<a class="itemDescription">Truffle Collection Helen Tie Up Heeled Sandals</a>
-					<a class="itemPrice">&#8364 67.60</a>
-					
+					<div class="descriptionProducts">
+						<a href="#" class="itemDescription">Truffle Collection Helen Tie Up Heeled Sandals</a>
+						<a href="#" class="itemPrice">&#8364 67.60</a>
+					</div>
 				</div>
-			</div>
 		
-			<div class="products3">	
 				<div class="model">
 					<div class="img">
 						<img src="img/shoes/4.jpg"/>
@@ -123,9 +125,10 @@
 							</a>
 						</div>
 					</div>
-					<a class="itemDescription">Me & Zena Astral Traveller Cord Necklace</a>
-					<a class="itemPrice">&#8364 16.90</a>
-	
+					<div class="descriptionProducts">
+						<a href="#" class="itemDescription">Me & Zena Astral Traveller Cord Necklace</a>
+						<a href="#" class="itemPrice">&#8364 16.90</a>
+					</div>
 				</div>
 				
 				
@@ -139,10 +142,12 @@
 							</a>
 						</div>
 					</div>
-					<a class="itemDescription">Truffle Collection Honor Mid Heeled Sandals</a>
-					<a class="itemPrice">&#8364 59.15</a>
-					
+					<div class="descriptionProducts">
+						<a href="#" class="itemDescription">Truffle Collection Honor Mid Heeled Sandals</a>
+						<a href="#" class="itemPrice">&#8364 59.15</a>
+					</div>
 				</div>
+				
 				<div class="model">
 					<div class="img">
 						<img src="img/shoes/6.jpg"/>
@@ -152,13 +157,13 @@
 							</a>
 						</div>
 					</div>
-					<a class="itemDescription">Little Mistress Tia Heeled Sandals</a>
-					<a class="itemPrice">&#8364 63.38</a>
-					
+					<div class="descriptionProducts">
+						<a href="#" class="itemDescription">Little Mistress Tia Heeled Sandals</a>
+						<a href="#" class="itemPrice">&#8364 63.38</a>
+					</div>	
 				</div>
-			</div>
+		
 			
-			<div class="products3">
 				<div class="model">
 					<div class="img">
 						<img src="img/shoes/7.jpg"/>
@@ -168,9 +173,10 @@
 							</a>
 						</div>
 					</div>
-					<a class="itemDescription">Nylon Collar Necklace</a>
-					<a class="itemPrice">&#8364 42.25</a>
-					
+					<div class="descriptionProducts">
+						<a href="#" class="itemDescription">Nylon Collar Necklace</a>
+						<a href="#" class="itemPrice">&#8364 42.25</a>
+					</div>
 				</div>
 				
 				<div class="model">
@@ -182,9 +188,10 @@
 							</a>
 						</div>
 					</div>
-					<a class="itemDescription">Dune Quilted Purse</a>
-					<a class="itemPrice">&#8364 49.30</a>
-				
+					<div class="descriptionProducts">
+						<a href="#" class="itemDescription">Dune Quilted Purse</a>
+						<a href="#" class="itemPrice">&#8364 49.30</a>
+					</div>
 				</div>
 				
 				
@@ -198,12 +205,13 @@
 							</a>
 						</div>
 					</div>
-					<a class="itemDescription">Mi-Pac Duffel Tapestry Black</a>
-					<a class="itemPrice">&#8364 49.30</a>
-					
+					<div class="descriptionProducts">
+						<a href="#" class="itemDescription">Mi-Pac Duffel Tapestry Black</a>
+						<a href="#" class="itemPrice">&#8364 49.30</a>
+					</div>
 				</div>
-			</div>
-			<div class="products3">
+		
+		
 				<div class="model">
 					<div class="img">
 						<img src="img/shoes/10.jpg"/>
@@ -213,9 +221,10 @@
 							</a>
 						</div>
 					</div>
-					<a class="itemDescription">Dune Grab Bag With Optional Cross Body Strap</a>
-					<a class="itemPrice">&#8364 91.55</a>
-					
+					<div class="descriptionProducts">
+						<a href="#" class="itemDescription">Dune Grab Bag With Optional Cross Body Strap</a>
+						<a href="#" class="itemPrice">&#8364 91.55</a>
+					</div>
 				</div>
 				
 				<div class="model">
@@ -227,9 +236,10 @@
 							</a>
 						</div>
 					</div>
-					<a class="itemDescription">Cheap Monday Round Sunglasses</a>
-					<a class="itemPrice">&#8364 28.17</a>
-					
+					<div class="descriptionProducts">
+						<a href="#" class="itemDescription">Cheap Monday Round Sunglasses</a>
+						<a href="#" class="itemPrice">&#8364 28.17</a>
+					</div>
 				</div>
 				
 				<div class="model">
@@ -241,13 +251,14 @@
 							</a>
 						</div>
 					</div>
-					<a class="itemDescription">Cheap Monday Sunglasses</a>
-					<a class="itemPrice">&#8364 28.17</a>
-					
+					<div class="descriptionProducts">
+						<a href="#" class="itemDescription">Cheap Monday Sunglasses</a>
+						<a href="#" class="itemPrice">&#8364 28.17</a>
+					</div>
 				</div>
-			</div>
 			
-			<div class="products3">
+			
+	
 				<div class="model">
 					<div class="img">
 						<img src="img/shoes/13.jpg"/>
@@ -257,9 +268,10 @@
 							</a>
 						</div>
 					</div>
-					<a class="itemDescription">Orelia Tassel And Bead Bracelet</a>
-					<a class="itemPrice">&#8364 21.13</a>
-					
+					<div class="descriptionProducts">
+						<a href="#" class="itemDescription">Orelia Tassel And Bead Bracelet</a>
+						<a href="#" class="itemPrice">&#8364 21.13</a>
+					</div>
 				</div>
 				
 				<div class="model">
@@ -271,9 +283,10 @@
 							</a>
 						</div>
 					</div>
-					<a class="itemDescription">Truffle Collection Helen Cut Out Heeled Sandals</a>
-					<a class="itemPrice">&#8364 67.60</a>
-					
+					<div class="descriptionProducts">
+						<a href="#" class="itemDescription">Truffle Collection Helen Cut Out Heeled Sandals</a>
+						<a href="#" class="itemPrice">&#8364 67.60</a>
+					</div>
 				</div>
 				
 				<div class="model">
@@ -285,13 +298,14 @@
 							</a>
 						</div>
 					</div>
-					<a class="itemDescription">Krystal Wrap Choker Necklace With Swarovski Crystal And Feather</a>
-					<a class="itemPrice">&#8364 77.46</a>
-					
+					<div class="descriptionProducts">
+						<a href="#" class="itemDescription">Krystal Wrap Choker Necklace With Swarovski Crystal And Feather</a>
+						<a href="#" class="itemPrice">&#8364 77.46</a>
+					</div>
 				</div>
-			</div>
+		
 			
-			<div class="products3">
+			
 				<div class="model">
 					<div class="img">
 						<img src="img/shoes/16.jpg"/>
@@ -301,9 +315,10 @@
 							</a>
 						</div>
 					</div>
-					<a class="itemDescription">Park Lane Embossed Leather Bag</a>
-					<a class="itemPrice">&#8364 91.55</a>
-					
+					<div class="descriptionProducts">
+						<a href="#" class="itemDescription">Park Lane Embossed Leather Bag</a>
+						<a href="#" class="itemPrice">&#8364 91.55</a>
+					</div>
 				</div>
 				
 				<div class="model">
@@ -315,9 +330,10 @@
 							</a>
 						</div>
 					</div>
-					<a class="itemDescription">Orelia Gold Leaf Resin Spear Pendant Necklace</a>
-					<a class="itemPrice">&#8364 28.17</a>
-					
+					<div class="descriptionProducts">
+						<a href="#" class="itemDescription">Orelia Gold Leaf Resin Spear Pendant Necklace</a>
+						<a href="#" class="itemPrice">&#8364 28.17</a>
+					</div>	
 				</div>
 				
 				<div class="model">
@@ -329,11 +345,12 @@
 							</a>
 						</div>
 					</div>
-					<a class="itemDescription">Dune Reversible Shopper Bag</a>
-					<a class="itemPrice">&#8364 97.18</a>
-					
+					<div class="descriptionProducts">
+						<a href="#" class="itemDescription">Dune Reversible Shopper Bag</a>
+						<a href="#" class="itemPrice">&#8364 97.18</a>
+					</div>
 				</div>
-			</div>
+			
 			
 		</div>
 		
